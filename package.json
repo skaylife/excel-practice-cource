@@ -1,0 +1,33 @@
+{
+  "name": "js_excel",
+  "version": "1.0.0",
+  "description": "Pure JavaScript Excel Application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "webpack", 
+    "build": "webpack --node production"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/skaylife/excel-practice-cource.git"
+  },
+  "keywords": [
+    "js",
+    "javascript",
+    "excel",
+    "babel",
+    "webpack"
+  ],
+  "author": "Skaylife",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/skaylife/excel-practice-cource/issues"
+  },
+  "homepage": "https://github.com/skaylife/excel-practice-cource#readme",
+  "private": "true",
+  "devDependencies": {
+    "webpack": "^5.39.0",
+    "webpack-cli": "^4.7.2"
+  }
+}
