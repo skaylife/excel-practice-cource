@@ -1,0 +1,18 @@
+Webpack (import/exports)
+  Babel
+  Scss
+  Eslint - Чистота проекта 
+  2 Modes  
+    - Dev
+      Dev Server, SourceMaps, Eslint, Not Minifued JS & CSS
+    - Prod
+      Minified Code
+Git
+
+  Production 
+    1.0.0
+    0 ---------
+  Development
+    1.0.2
+    1 ----------   PoolRequest - PR
+    2 ------------- |
